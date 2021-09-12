@@ -1,0 +1,4 @@
+baseURL = 'https://www.sergeyrodin.com/'
+languageCode = 'en-us'
+title = 'Sergey Rodin'
+theme = 'ananke'

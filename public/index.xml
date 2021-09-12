@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergey Rodin</title>
+    <link>https://www.sergeyrodin.com/</link>
+    <description>Recent content on Sergey Rodin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 13:17:58 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://www.sergeyrodin.com/posts/my-first-post/</link>
+      <pubDate>Sun, 12 Sep 2021 13:17:58 +0700</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/posts/my-first-post/</guid>
+      <description>Webhooks are one of the ways applications can communicate with each other. They are a useful, resource-light way to implement event reactions, which means a specific action will be triggered when an event occurs. Webhooks usually contain JSON payloads — your data — which is sent to a unique URL.
+The URL acts like a phone number for the originating application to call the target application. When that call comes through, the two apps communicate what data should be sent, and the target application gets to work.</description>
+    </item>
+    
+  </channel>
+</rss>
