@@ -6,14 +6,33 @@
     <description>Recent content in Posts on Sergey Rodin&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 14:54:58 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 23:30:43 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fourth Post</title>
+      <link>https://www.sergeyrodin.com/posts/my-fourth-post/</link>
+      <pubDate>Thu, 16 Sep 2021 23:30:43 +0700</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/posts/my-fourth-post/</guid>
+      <description>Atlassian stack:
+ Confluence: SSO Bitbucket: request EMs for access to projects you’ll be working on JIRA: request access via Service Desk, otherwise you won’t be able to browse projects  </description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://www.sergeyrodin.com/posts/my-third-post/</link>
+      <pubDate>Mon, 13 Sep 2021 23:14:19 +0700</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/posts/my-third-post/</guid>
+      <description>Then you can tell the originating app — your online store — the webhook URL of your invoice app. Now whenever your online store receives an order, it will encode all the necessary data (your payload) and ping the webhook URL, sending the order details to your invoice app to create a new invoice.</description>
+    </item>
+    
     <item>
       <title>Webhooks (continued)</title>
       <link>https://www.sergeyrodin.com/posts/my-second-post/</link>
       <pubDate>Sun, 12 Sep 2021 14:54:58 +0700</pubDate>
       
       <guid>https://www.sergeyrodin.com/posts/my-second-post/</guid>
-      <description>For example, say you run an online business and want to create an invoice each time a customer completes an order. You would need to first set up everything in your invoice app, and copy its webhook URL. Then you can tell the originating app — your online store — the webhook URL of your invoice app. Now whenever your online store receives an order, it will encode all the necessary data (your payload) and ping the webhook URL, sending the order details to your invoice app to create a new invoice.</description>
+      <description>For example, say you run an online business and want to create an invoice each time a customer completes an order. You would need to first set up everything in your invoice app, and copy its webhook URL.</description>
     </item>
     
     <item>
