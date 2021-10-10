@@ -23,15 +23,12 @@
 <meta name=twitter:title content>
 <meta name=twitter:description content>
 </head>
-<body class=not-ready data-menu=true>
+<body class=not-ready data-menu=false>
 <header class=header>
 <h1 class=logo>
 <a class=site-name href=https://www.sergeyrodin.com/>Sergey Rodin</a><a class=btn-dark></a>
 </h1>
 <script>let bodyClx=document.body.classList,btnDark=document.querySelector('.btn-dark'),sysDark=window.matchMedia('(prefers-color-scheme: dark)'),darkVal=localStorage.getItem('dark'),setDark=a=>{bodyClx[a?'add':'remove']('dark'),localStorage.setItem('dark',a?'yes':'no')};setDark(darkVal?darkVal==='yes':sysDark.matches),requestAnimationFrame(()=>bodyClx.remove('not-ready')),btnDark.addEventListener('click',()=>setDark(!bodyClx.contains('dark'))),sysDark.addEventListener('change',a=>setDark(a.matches))</script>
-<nav class=menu>
-<a href=/about/>Hi, I'm Sergey.</a>
-</nav>
 <nav class=social>
 <a class=github style=--url:url(./github.svg) href=https://github.com/RodinGolodin target=_blank></a>
 </nav>
