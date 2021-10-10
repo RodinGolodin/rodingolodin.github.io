@@ -6,7 +6,5 @@ menu: "main"
 ---
 
 I'm a self-reliant technical writer who loves working with engineering teams. I produce developer documentation, structure internal knowledge, and set up processes that make it easier for users to contribute to docs.
+
 I live in Ho Chi Minh City, Vietnam.
-
-
-
