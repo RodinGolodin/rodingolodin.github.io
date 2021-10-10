@@ -1,5 +1,8 @@
 baseURL = 'https://www.sergeyrodin.com/'
 languageCode = 'en-us'
-title = "Sergey Rodin's site"
-theme = 'ananke'
+title = "Sergey Rodin"
+theme = 'paper'
 publishDir = 'docs'
+
+[params]
+    github = 'RodinGolodin'
