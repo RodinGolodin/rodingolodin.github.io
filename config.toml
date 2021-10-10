@@ -1,6 +1,6 @@
 baseURL = 'https://www.sergeyrodin.com/'
 languageCode = 'en-us'
-title = "Sergey Rodin"
+title = 'Sergey Rodin'
 theme = 'paper'
 publishDir = 'docs'
 
