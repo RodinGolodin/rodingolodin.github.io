@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sergey Rodin</title><link>https://www.sergeyrodin.com/</link><description>Recent content on Sergey Rodin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 20:11:41 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergey Rodin</title>
+    <link>https://www.sergeyrodin.com/</link>
+    <description>Recent content on Sergey Rodin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 20:11:41 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.sergeyrodin.com/about/me/</link>
+      <pubDate>Sun, 10 Oct 2021 20:25:16 +0700</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/about/me/</guid>
+      <description>Hi, I&amp;rsquo;m Sergey I&amp;rsquo;m an experienced solo technical writer and a documentation evangelist who loves working with software development teams. My two areas of expertise are internal-facing documentation, and external-facing API documentation.
+On the internal side of things, I focus on establishing processes, procedures, and templates that help engineering teams keep their documentation in good shape and up-to-date. As a writer, I produce developer documentation, such as tutorials, how-to guides, reference, and explanation articles.</description>
+    </item>
+    
+  </channel>
+</rss>
