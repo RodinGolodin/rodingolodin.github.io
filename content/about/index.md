@@ -2,7 +2,7 @@
 title: "About"
 date: 2021-10-10T20:25:16+07:00
 draft: true
-menu: "main"
+# menu: "main"
 ---
 
 ## Hi, I'm Sergey
