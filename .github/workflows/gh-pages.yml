@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: sergeyrodin.com
 
 on:
   push:
@@ -42,4 +42,4 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: ${{ github.workflow }} successfully completed!
+          message: Changes to ${{ github.workflow }} successfully deployed!
