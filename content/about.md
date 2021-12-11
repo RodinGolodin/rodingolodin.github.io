@@ -11,12 +11,12 @@ Here's what I do on the internal side of things:
 * Establish processes, procedures, and templates that enable teams to write standardized content and keep it up-to-date.
 * Develop guidelines and introduce best practices. For example, a style guide based on the Google developer documentation style guide.
 * Produce a range of documentation—tutorials, how-tos, standards, guidelines, API reference guides, getting started guides, and more. 
-* Shape an information architecture of the company's Confluence instance.
+* Shape an information architecture of the company's Confluence instance created.
 
-Here's the external-facing part:
-* I maintain an information architecture on an API site used by partner developers.
-* I write conceptual and reference API documentation on the site, and publish it using a docs-as-code approach.
+Here's the external-facing part I'm in charge of:
+* Maintain an information architecture of an API site used by partner developers.
+* Write conceptual and reference API documentation on the site, and publish it using a docs-as-code approach.
 
 "User-driven documentation" aren't just buzzwords to me—I do regular surveys, interviews, and user research. I also remain in close contact with partner developers, which is an invaluable source of feedback. In general, staying in touch with the users helps me produce content that caters to the tasks that they need to accomplish, while emphasizing the importance of documentation across the organization.
 
-See my [LinkedIn](https://linkedin.com/in/sergrodin) and [writing samples](https://1drv.ms/u/s!Ao47xIRuAN0R0mCD2yQ_VJvR3hHK?e=ybJtsP).
+See my [LinkedIn profile](https://linkedin.com/in/sergrodin) and [writing samples](https://1drv.ms/u/s!Ao47xIRuAN0R0mCD2yQ_VJvR3hHK?e=ybJtsP).
