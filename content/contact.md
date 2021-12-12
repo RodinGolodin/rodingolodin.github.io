@@ -1,7 +1,7 @@
-+++
-title = "Contact"
-slug = "contact"
-+++
+---
+title: "About"
+slug: "contact"
+---
 
 Here's how to contact me:
 * [LinkedIn](https://linkedin.com/in/sergrodin)
