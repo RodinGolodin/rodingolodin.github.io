@@ -16,7 +16,7 @@ publishDir = "docs"
 author = "Sergey Rodin"
 description = "Sergey Rodin's personal website"
 keywords = "blog,technical writer,personal"
-info = ["Software Technical Writer", "Docs Evangelist"]
+info = ["Technical writer", "Documentation evangelist"]
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 footerContent = "Docs or it didn't happen."
@@ -116,9 +116,9 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-# name = "Blog"
-# weight = 2
-# url = "posts/"
+name = "Resume"
+weight = 2
+url = "resume/"
 
 [[languages.en.menu.main]]
 # name = "Projects"

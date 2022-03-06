@@ -1,7 +1,6 @@
 ---
-title: "CV"
-slug: "cv"
-date: 2022-03-06
+title: "Resume"
+slug: "resume"
 ---
 
 # Profile
@@ -24,7 +23,7 @@ I live in Ho Chi Minh City, Vietnam.
 A lone technical writer leading the function and supporting a team of over 200 people, including engineers, product managers, and QA testers. My responsibilities as a writer are external-facing API documentation, tutorials, how-tos and user guides. As a function lead, I maintain the Confluence wiki and make sure that users adhere to the guidelines and processes.
 
 Accomplishments:
-* Rewrote and expanded the company’s API portal (https://api-docs.ninjavan.co). This reduced the number of support requests and documentation-related complaints.
+* Rewrote and expanded the company’s [API portal](https://api-docs.ninjavan.co). This reduced the number of support requests and documentation-related complaints.
 * Introduced a style guide and other documentation-related guidelines and processes. As confirmed by quarterly surveys, this improved the users' perception of the documentation quality.
 * Created a tutorial that cut down the QA engineers' onboarding time from 2 weeks to a few days.
 
