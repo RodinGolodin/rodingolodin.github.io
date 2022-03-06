@@ -46,25 +46,21 @@ Accomplishments:
 * Created user documentation for the launch of BlackBerry UEM mobility management platform.
 * Designed a SharePoint site and created a knowledge base and an FAQ for a large project on migrating content Google Docs to Office365.
 * Created a documentation set to help onboard thousands of Lazada employees to a new corporate messenger.
-* Creating a developer documentation set for an invoice management system. This included data flow diagrams, sequence diagrams, and context diagrams.
+* Created a developer documentation set for an invoice management system. This included data flow diagrams, sequence diagrams, and context diagrams.
 * Created a knowledge base for an internal identity and access management portal.
   
 ## Technical Writer, Lazada Group, Ho Chi Minh City, Vietnam — 2015–2017
-Joined a team of developers, QA engineers, and product managers as the first technical writer at the company. Under no supervision, established a technical writing workflow and documented critical processes and areas of the eCommerce software development.
+Joined a team of developers, QA engineers, and product managers as the first technical writer at the company. Under no supervision, established a technical writing workflow and documented critical processes and areas of the e-commerce software development.
 
 Accomplishments:
-* Built and maintained administrator documentation for the backend engine and order management systems.
+* Built and maintained administrator documentation for a backend engine and order management systems.
 * Created the first of its kind system architecture diagram and met with developers and tech leads from multiple countries in the process.
 * Created project management guidelines together with the respective team.
-* Held a presentation on the role of technical writing and documentation in software development (never hurts to emphasize the importance of that!).
-* Created a configuration guide for a complex shipping fee calculation feature.
-* Created on-boarding documentation for new employees, first of its kind at the company.
+* Did presentations on the role of technical writing and documentation in software development (never hurts to emphasize the importance of that!).
+* Created onboarding documentation for new employees, first of its kind at the company.
 
 ## Technical Writer, Lintelus Inc (US), remotely — 2014–2015
-After SwitchRay was acquired by a US-based company, I joined them to help document a Zoom-like event management software. I worked remotely with the developers and product managers.
-
-Accomplishments:
-* Created and maintained documentation for the administrator, event organizer, and event participant roles. The latest version of the docs was shipped in DOC/PDF along with each major release.
+After SwitchRay was acquired by a US-based company, I joined them to help document a Zoom-like event management software. I worked remotely with the developers and product managers. In this role, I created and maintained documentation for the administrator, event organizer, and event participant roles. The latest version of the docs was shipped in DOC/PDF along with each major release.
 
 ## Technical Writer, SwitchRay, Nizhny Novgorod, Russia — 2013–2014
 The company changed its name to SwitchRay. I was assigned a new project—a telecom fraud detection and prevention system. I wrote user guides, release notes, and marketing content.
