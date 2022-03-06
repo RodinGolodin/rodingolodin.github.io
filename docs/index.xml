@@ -8,6 +8,18 @@
     <language>en</language>
     <lastBuildDate>Sun, 10 Oct 2021 20:11:41 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CV</title>
+      <link>https://www.sergeyrodin.com/cv/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/cv/</guid>
+      <description>Profile    A self-reliant technical writer with 8 years of experience in the software development industry.
+As a lone writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
+As a contributor, I write and edit developer-facing documentation for internal and external audiences. This includes tutorials, how-to guides, and API documentation.
+As a function lead, I establish processes and guidelines, shape up the information architecture of internal knowledge, create templates, and audit content.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://www.sergeyrodin.com/about/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
