@@ -84,7 +84,7 @@ Accomplishments:
 * Reliable
   
 # Writing samples
-See in [OneDrive](https://1drv.ms/u/s!Ao47xIRuAN0R0mCD2yQ_VJvR3hHK?e=ybJtsP).
+See [Writing samples]({{< ref "/writing-samples" >}} "Writing samples")
 
 # Education
 * BA in linguistics, Nizhny Novgorod State Linguistics University, 2013

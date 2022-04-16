@@ -15,4 +15,4 @@ Here's the external-facing part I'm in charge of:
 * Maintain an information architecture of an API site used by partner developers.
 * Write conceptual and reference API documentation on the site, and publish it using a docs-as-code approach.
 
-"User-driven documentation" aren't just buzzwords to me—I do regular surveys, interviews, and user research. I also remain in close contact with partner developers, which is an invaluable source of feedback. Staying in touch with the users helps me produce content that caters to the problems that they're trying to solve, at the same time emphasizing the importance of documentation across the organization.
+As a writer, I regularly conduct surveys, interviews, and user research outside of my main working pipeline, just to understand what direction the documentation should take. I also remain in close contact with partner developers, which is an invaluable source of feedback. Staying in touch with the users helps me produce content that caters to the problems that they're trying to solve, at the same time emphasizing the importance of documentation across the organization.

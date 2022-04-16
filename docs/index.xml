@@ -37,5 +37,16 @@ As a contributor, I write and edit developer-facing documentation for internal a
 As a function lead, I establish processes and guidelines, shape up the information architecture of internal knowledge, create templates, and audit content.</description>
     </item>
     
+    <item>
+      <title>Writing samples</title>
+      <link>https://www.sergeyrodin.com/writing-samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sergeyrodin.com/writing-samples/</guid>
+      <description>This page contains my selected writing samples.
+Tutorial    This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
+Create a shipper (tutorial)</description>
+    </item>
+    
   </channel>
 </rss>
