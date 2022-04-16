@@ -39,13 +39,13 @@ As a function lead, I establish processes and guidelines, shape up the informati
     
     <item>
       <title>Writing samples</title>
-      <link>https://www.sergeyrodin.com/writing-samples/</link>
+      <link>https://www.sergeyrodin.com/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.sergeyrodin.com/writing-samples/</guid>
+      <guid>https://www.sergeyrodin.com/samples/</guid>
       <description>This page contains my selected writing samples.
-Tutorial    This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
-Create a shipper (tutorial)</description>
+Tutorial    Create a shipper (fragment)
+This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.</description>
     </item>
     
   </channel>
