@@ -45,7 +45,9 @@ As a function lead, I establish processes and guidelines, shape up the informati
       <guid>https://www.sergeyrodin.com/samples/</guid>
       <description>This page contains my selected writing samples.
 Tutorial    Create a shipper (fragment)
-This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.</description>
+This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
+API integration guide    Order API integration guide (fragment)
+This is a fragment of an integration guide for a logistics API used to create delivery orders.</description>
     </item>
     
   </channel>
