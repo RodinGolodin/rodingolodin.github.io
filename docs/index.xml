@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/contact/</guid>
-      <description> LinkedIn Email  </description>
+      <description> LinkedIn Email </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/resume/</guid>
-      <description>Profile    A self-reliant technical writer with 8 years of experience in the software development industry.
+      <description>Profile A self-reliant technical writer with 9 years&amp;rsquo; experience in the software development industry.
 As a lone writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
 As a contributor, I write and edit developer-facing documentation for internal and external audiences. This includes tutorials, how-to guides, and API documentation.
 As a function lead, I establish processes and guidelines, shape up the information architecture of internal knowledge, create templates, and audit content.</description>
@@ -44,9 +44,9 @@ As a function lead, I establish processes and guidelines, shape up the informati
       
       <guid>https://www.sergeyrodin.com/samples/</guid>
       <description>This page contains my selected writing samples.
-Tutorial    Create a shipper (fragment)
+Tutorial Create a shipper (fragment)
 This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
-API integration guide    Order API integration guide (fragment)
+API integration guide Order API integration guide (fragment)
 This is a fragment of an integration guide for a logistics API used to create delivery orders.</description>
     </item>
     
