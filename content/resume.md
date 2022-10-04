@@ -5,7 +5,7 @@ slug: "resume"
 
 # Profile
 
-A self-reliant technical writer with 8 years of experience in the software development industry.
+A self-reliant technical writer with 9 years' experience in the software development industry.
 
 As a lone writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
 
