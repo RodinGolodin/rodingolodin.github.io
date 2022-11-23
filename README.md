@@ -1,3 +1,3 @@
-## Blog and personal site
+## Personal site
 
-I'm testing Hugo as a static site generator (SSG) for my [personal site](https://sergeyrodin.com).
+My personal website that runs on Hugo: https://sergeyrodin.com.
