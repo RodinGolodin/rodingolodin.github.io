@@ -3,16 +3,10 @@ title: "About me"
 slug: "about"
 ---
 
-Hi, my name's Sergey. I'm a software technical writer with 8 years of experience. Since 2015, I've worked as a solo writer at engineering-driven logistics companies in Southeast Asia, where I focused on internal-facing documentation and processes, as well as external-facing content. As a lone writer, part of my job is to maintain a corporate knowledge base, and this is where I put on the hat of an information architect.
+Hi, my name is Sergey. I'm a software technical writer with 10 years' experience. 
 
-Here's what I do on the internal side of things:
-* Establish processes, procedures, and templates that enable teams to write standardized content and keep it up-to-date.
-* Develop guidelines and introduce best practices. For example, a style guide based on the Google developer documentation style guide.
-* Produce a range of documentation—tutorials, how-tos, standards, guidelines, API reference guides, getting started guides, and more. 
-* Shape an information architecture of the company's Confluence instance created.
+Since 2015, I've worked as a writer for logistics companies in Southeast Asia. I focused on internal-facing documentation and processes, as well as external-facing content.
 
-Here's the external-facing part I'm in charge of:
-* Maintain an information architecture of an API site used by partner developers.
-* Write conceptual and reference API documentation on the site, and publish it using a docs-as-code approach.
+In 2023, I joined a company called Sky Mavis, a Web3 gaming startup behind the popular Axie Infinity game and the Ronin blockchain network. At Sky Mavis, I write and proofread end-user content, while maintaining the documentation websites infrastructure.
 
-As a writer, I regularly conduct surveys, interviews, and user research outside of my main working pipeline, just to understand what direction the documentation should take. I also remain in close contact with partner developers, which is an invaluable source of feedback. Staying in touch with the users helps me produce content that caters to the problems that they're trying to solve, at the same time emphasizing the importance of documentation across the organization.
+Since Web3 is a completely new industry for me, I had to learn everything from scratch. I've enjoyed the learning curve tremendously. Also, I've always wanted to write end-user content, and I'm happy to say I'm finally doing it.
