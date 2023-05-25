@@ -1,4 +1,4 @@
-baseURL = "https://sergeyrodin.com/"
+baseURL = "https://www.sergeyrodin.com/"
 title = "Sergey Rodin"
 theme = "hugo-coder"
 languageCode = "en"

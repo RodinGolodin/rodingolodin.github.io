@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sergey Rodin</title>
-    <link>https://sergeyrodin.com/</link>
+    <link>https://www.sergeyrodin.com/</link>
     <description>Recent content on Sergey Rodin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Mar 2022 12:28:41 +0700</lastBuildDate><atom:link href="https://sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 12:28:41 +0700</lastBuildDate><atom:link href="https://www.sergeyrodin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://sergeyrodin.com/about/</link>
+      <link>https://www.sergeyrodin.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergeyrodin.com/about/</guid>
+      <guid>https://www.sergeyrodin.com/about/</guid>
       <description>Hi, my name is Sergey. I&amp;rsquo;m a software technical writer with 10 years&amp;rsquo; experience.
 Since 2015, I&amp;rsquo;ve worked as a writer for logistics companies in Southeast Asia. I focused on internal-facing documentation and processes, as well as external-facing content.
 In 2023, I joined a company called Sky Mavis, a Web3 gaming startup behind the popular Axie Infinity game and the Ronin blockchain network. At Sky Mavis, I write and proofread end-user content, while maintaining the documentation websites infrastructure.</description>
@@ -20,19 +20,19 @@ In 2023, I joined a company called Sky Mavis, a Web3 gaming startup behind the p
     
     <item>
       <title>Contact me</title>
-      <link>https://sergeyrodin.com/contact/</link>
+      <link>https://www.sergeyrodin.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergeyrodin.com/contact/</guid>
+      <guid>https://www.sergeyrodin.com/contact/</guid>
       <description> LinkedIn: https://linkedin.com/in/sergrodin Email: me@sergeyrodin.com </description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://sergeyrodin.com/resume/</link>
+      <link>https://www.sergeyrodin.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergeyrodin.com/resume/</guid>
+      <guid>https://www.sergeyrodin.com/resume/</guid>
       <description>Profile A self-reliant technical writer with 10 years’ experience in the software development industry. As a sole writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
 As a contributor, I write and edit developer-facing documentation for internal and external audiences. This includes tutorials, how-to guides, and API documentation.
 As a function lead, I establish processes and guidelines, shape up the information architecture of internal knowledge, create templates, and audit content.</description>
@@ -40,10 +40,10 @@ As a function lead, I establish processes and guidelines, shape up the informati
     
     <item>
       <title>Writing samples</title>
-      <link>https://sergeyrodin.com/samples/</link>
+      <link>https://www.sergeyrodin.com/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergeyrodin.com/samples/</guid>
+      <guid>https://www.sergeyrodin.com/samples/</guid>
       <description>This page contains my selected writing samples.
 Tutorial Create a shipper (fragment)
 This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
