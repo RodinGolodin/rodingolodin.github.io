@@ -116,9 +116,9 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Resume"
+name = "CV"
 weight = 2
-url = "resume/"
+url = "cv/"
 
 [[languages.en.menu.main]]
 name = "Writing samples"
