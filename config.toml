@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 publishDir = "docs"
+googleAnalytics = 'G-YM8LD3VXML'
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
@@ -129,5 +130,3 @@ url = "samples/"
 name = "Contact"
 weight = 5
 url = "contact/"
-
-googleAnalytics = 'G-YM8LD3VXML'
