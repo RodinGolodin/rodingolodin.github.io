@@ -5,31 +5,38 @@ slug: "cv"
 
 ## Profile
 
-A self-reliant technical writer with 10 years’ experience in the software development industry. As a sole writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
+A self-reliant technical writer with 10 years’ experience in the software development industry. As a lone writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
 
 As a contributor, I write and edit developer-facing documentation for internal and external audiences. This includes tutorials, how-to guides, and API documentation.
 
-As a function lead, I establish processes and guidelines, shape up the information architecture of internal knowledge, create templates, and audit content. I do regular surveys to stay on track with what users need, and rely on a maturity model to bring the organization’s documentation to the next level.
+As a function lead, I establish processes and guidelines, design the information architecture of documentation portals, create templates, and audit the content. I do regular surveys to stay on track with what users need, and rely on a maturity model to bring the organization’s documentation to the next level.
 
-Since 2015, I’ve worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I transitioned to tech writing at Sky Mavis, the maker of the Axie Infinity game and the Ronin blockchain, among other products.
+Since 2015, I’ve worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I joined Sky Mavis, the Web3 startup behind the Axie Infinity game and the Ronin blockchain.
 
 I live in Ho Chi Minh City, Vietnam.
+
+Often doubting myself, I've worked hard to be where I am today. I might be a lone writer, but I would never have made it without the amazing and pasionate colleagues and friends who accompanied me along this journey. Thank you.
 
 ## Experience
 
 ### Senior Technical Writer, Sky Mavis, Ho Chi Minh City, Vietnam — 2023-present
 
-End-user documentation for a blockchain network ([Ronin](https://docs.roninchain.com)) and [developer documentation](https://docs.skymavis.com) for Sky Mavis products. Writing new content by myself and assisting engineers with proofreading their documents. Maintaining the infrastructure part of the website (Docusaurus).
+* Launched a documentation site for the Ronin blockchain: [docs.roninchain.com](https://docs.roninchain.com).
+* Revamped the Sky Mavis developer documentation site and migrated it to Docusaurus: [docs.skymavis.com](https://docs.skymavis.com).
+* Wrote and reviewed articles for both products, coordinated content delivery by other team members, managed the underlying documentation infrastructure.
 
 ### Senior Technical Writer, Ninja Van, Ho Chi Minh City, Vietnam — 2021-2023
 
-A sole technical writer leading the function and supporting a team of over 200 people, including engineers, product managers, and QA testers. My responsibilities as a writer are external-facing API documentation, tutorials, how-tos and user guides. As a function lead, I maintain the Confluence wiki and make sure that users adhere to the guidelines and processes.
+A lone technical writer leading the function and supporting a team of over 200 people, including engineers, product managers, and QA engineers. My responsibilities as a writer are external-facing API documentation, tutorials, how-tos and user guides. As a function lead, I maintain the Confluence wiki and make sure that users adhere to the guidelines and processes.
 
 Accomplishments:
 
-* Rewrote and expanded the company’s [API portal](https://api-docs.ninjavan.co). This reduced the number of support requests and documentation-related complaints.
-* Introduced a style guide and other documentation-related guidelines and processes. As confirmed by quarterly surveys, this improved the users' perception of the documentation quality.
-* Created a tutorial that cut down the QA engineers' onboarding time from 2 weeks to a few days.
+* Rewrote and expanded the company’s API documentation site: [api-docs.ninjavan.co](https://api-docs.ninjavan.co). This reduced the number of support requests and documentation-related complaints.
+* Created a style guide and designed other documentation-related guidelines and processes. As confirmed by quarterly surveys, this improved the users' perception of the documentation quality and maturity.
+* Created a tutorial that reduced the onboarding time for QA engineers from 2 weeks to 2 days.
+* Increased documentation maturity level from 2 to 3 against a maturity model developed based on the one used by Wikipedia.
+* Increased documentation coverage for micro services from 40% to 80% throughout the year on an internal scale.
+* Introduced a working model with “wiki wardens” - appointed representatives of each engineering team who were responsible for maintaining their documentation and implementing best practices.
 
 ### Senior Technical Writer, Lazada Group, Ho Chi Minh City, Vietnam — 2018-2021
 
