@@ -5,17 +5,15 @@ slug: "cv"
 
 ## Profile
 
-A self-reliant technical writer with 10 years’ experience in the software development industry. As a lone writer throughout most of my career, I’ve worked both as an individual contributor and a documentation function lead.
+10+ years as a self-reliant technical writer in the software development industry, with experience as both an individual contributor and documentation function lead.
 
-As a contributor, I write and edit developer-facing documentation for internal and external audiences. This includes tutorials, how-to guides, and API documentation.
+As a contributor, I write and edit developer-facing documentation for internal and external audiences, including tutorials, how-to guides, API, and SDK documentation.
 
-As a function lead, I establish processes and guidelines, design the information architecture of documentation portals, create templates, and audit the content. I do regular surveys to stay on track with what users need, and rely on a maturity model to bring the organization’s documentation to the next level.
+As a function lead, I establish processes and guidelines, design the information architecture of documentation portals, create templates, and audit content. I also conduct regular surveys to stay on track with user needs and use a maturity model to improve the organization's documentation.
 
-Since 2015, I’ve worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I joined Sky Mavis, the Web3 startup behind the Axie Infinity game and the Ronin blockchain.
+Since 2015, I've worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I joined Sky Mavis, the web3 startup behind the Axie Infinity game and the Ronin blockchain.
 
-I live in Ho Chi Minh City, Vietnam.
-
-Often doubting myself, I've worked hard to be where I am today. I might be a lone writer, but I would never have made it without the amazing and pasionate colleagues and friends who accompanied me along this journey. Thank you.
+I'm based in Ho Chi Minh City, Vietnam, and open to relocation.
 
 ## Experience
 
@@ -27,7 +25,7 @@ Often doubting myself, I've worked hard to be where I am today. I might be a lon
 
 ### Senior Technical Writer, Ninja Van, Ho Chi Minh City, Vietnam — 2021-2023
 
-A lone technical writer leading the function and supporting a team of over 200 people, including engineers, product managers, and QA engineers. My responsibilities as a writer are external-facing API documentation, tutorials, how-tos and user guides. As a function lead, I maintain the Confluence wiki and make sure that users adhere to the guidelines and processes.
+Lead the documentation function and supported a team of over 200 people, including engineers, product managers, and QA testers. My responsibilities as a writer included producing external-facing API documentation, tutorials, how-tos and user guides. As a function lead, I maintained the wiki and ensured that other contributors adhered to the guidelines and established processes.
 
 Accomplishments:
 
