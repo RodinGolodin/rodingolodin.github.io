@@ -11,9 +11,9 @@ As a contributor, I write and edit developer-facing documentation for internal a
 
 As a function lead, I establish processes and guidelines, design the information architecture of documentation portals, create templates, and audit content. I also conduct regular surveys to stay on track with user needs and use a maturity model to improve the organization's documentation.
 
-Since 2015, I've worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I joined Sky Mavis, the web3 startup behind the Axie Infinity game and the Ronin blockchain.
+Since 2015, I've worked in the e-commerce industry, at companies such as Lazada and Ninja Van. In 2023, I joined Sky Mavis, the Web3 startup behind the Axie Infinity game and the Ronin blockchain.
 
-I'm based in Ho Chi Minh City, Vietnam, and open to relocation.
+I'm legally authorized to work in Vietnam, and open to relocation elsewhere as well as remote work.
 
 ## Experience
 
