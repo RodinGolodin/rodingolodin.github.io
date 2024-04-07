@@ -9,6 +9,11 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 publishDir = "docs"
+googleAnalytics = "G-YM8LD3VXML"
+scriptsrc = [
+  "https://http://googletagmanager.com",
+  "https://www.google-analytics.com",
+]
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
@@ -72,9 +77,6 @@ customJS = []
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 [params.googleTagManager]
 id = "GT-NBJ6ZB9"
-
-[params.googleAnalytics]
-id = "G-YM8LD3VXML"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
