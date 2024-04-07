@@ -74,7 +74,7 @@ customJS = []
 id = "GT-NBJ6ZB9"
 
 [params.googleAnalytics]
-ID = "G-YM8LD3VXML"
+id = "G-YM8LD3VXML"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -125,9 +125,9 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "CV"
+name = "Resume"
 weight = 2
-url = "cv/"
+url = "resume/"
 
 [[languages.en.menu.main]]
 name = "Writing samples"

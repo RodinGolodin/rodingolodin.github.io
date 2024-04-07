@@ -19,23 +19,21 @@ In 2023, I joined Sky Mavis, a Web3 gaming startup behind the popular Axie Infin
     </item>
     
     <item>
-      <title>Contact me</title>
+      <title>Contact information</title>
       <link>https://www.sergeyrodin.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/contact/</guid>
-      <description> Email: me@sergeyrodin.com Telegram: @golodinsky Zalo/WhatsApp: +84702963470 </description>
+      <description> Email: contact@sergeyrodin.com Telegram: @golodinsky Phone number: +84702963470 </description>
     </item>
     
     <item>
-      <title>CV</title>
-      <link>https://www.sergeyrodin.com/cv/</link>
+      <title>Resume</title>
+      <link>https://www.sergeyrodin.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.sergeyrodin.com/cv/</guid>
-      <description>Profile 10+ years as a self-reliant technical writer in the software development industry, with experience as both an individual contributor and documentation function lead.
-As a contributor, I write and edit developer-facing documentation for internal and external audiences, including tutorials, how-to guides, API, and SDK documentation.
-As a function lead, I establish processes and guidelines, design the information architecture of documentation portals, create templates, and audit content. I also conduct regular surveys to stay on track with user needs and use a maturity model to improve the organization&amp;rsquo;s documentation.</description>
+      <guid>https://www.sergeyrodin.com/resume/</guid>
+      <description>Profile Experienced technical writer with over 10 years of expertise creating documentation for end users and developers, including guides, APIs, and SDKs. Proficient in Docs-as-Code methodology, git, and command line. Skilled in researching and writing effective technical documentation for engineers. Demonstrated success in leading large- scale documentation efforts, launching developer portals and end-user documentation sites. Proven track record of maintaining consistency and quality across multiple documentation sets by adhering to style guides.</description>
     </item>
     
     <item>

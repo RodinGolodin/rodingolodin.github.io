@@ -1,8 +1,8 @@
 ---
-title: "Contact me"
+title: "Contact information"
 slug: "contact"
 ---
 
-* Email: [me@sergeyrodin.com](mailto:me@sergeyrodin.com)
-* Telegram: @golodinsky
-* Zalo/WhatsApp: +84702963470
+* Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
+* Telegram: [@golodinsky](https://t.me/golodinsky)
+* Phone number: +84702963470
