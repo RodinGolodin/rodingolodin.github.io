@@ -42,11 +42,8 @@ In 2023, I joined Sky Mavis, a Web3 gaming startup behind the popular Axie Infin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/samples/</guid>
-      <description>This page contains my selected writing samples.
-Sky Mavis documentation Ronin blockchain documentation: docs.roninchain.com Sky Mavis developer documentation: docs.skymavis.com Tutorial Create a shipper (fragment)
-This is a fragment of a tutorial that explains how to create a shipper in a system used by the operations team. The PDF was exported from a Confluence page, where the entire tutorial is published.
-API integration guide Order API integration guide (fragment)
-This is a fragment of an integration guide for a logistics API used to create delivery orders.</description>
+      <description>Overview This page contains my selected writing samples arranged in a descending order.
+2023-2024 End-user documentation for a blockchain How-to guide: Run a validator and bridge together Reference: Slashing rules Concept: White paper Developer documentation for a blockchain How-to guide for integrating a payment service using an API: Integrate with the Mavis Pay API How-to guide for integrating an analytics service using an API: Integrate with the App Tracking API How-to guide for JavaScript and Unity SDKs combined: Create a transaction JavaScript SDK reference: JavaScript SDK reference Unity SDK reference: Unity SDK reference API reference: Skynet REST API Concept: About transactions in MPC 2017-2023 Tutorial Create a shipper (excerpt)</description>
     </item>
     
   </channel>
