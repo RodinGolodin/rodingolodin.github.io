@@ -19,6 +19,7 @@ Achievements:
 * Led the project of migrating the developer website from a paid service to an open-source framework, achieving a cost savings of over $4500 annually.
 * Promoted the importance of documentation across the engineering team, leading to over 90% developer-facing products having documentation prepared by engineers prior to release.
 * Contributed to UX writing across 5 products.
+* * Treated the documentation as a product, identifying user personas, product positioning, and setting a direction for future development.
 
 ### Senior Technical Writer, Ninja Van, Ho Chi Minh City, Vietnam — 2021-2023
 
