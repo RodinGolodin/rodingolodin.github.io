@@ -13,9 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/about/</guid>
-      <description>Hi, my name is Sergey. I&amp;rsquo;m a software technical writer with 10 years of experience in the logistics and Web3 industries.
-From 2015 to 2023, I worked as a technical writer in the logistics industry in Southeast Asia, focusing on internal and external documentation and processes.
-In 2023, I joined Sky Mavis, a Web3 gaming startup behind the popular Axie Infinity game and the Ronin blockchain. At Sky Mavis, I write and proofread content for developers and end users, design the information architecture and maintain the underlying infrastructure of the documentation websites.</description>
+      <description>Technical writer with 10+ years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code and Git. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.</description>
     </item>
     
     <item>
@@ -28,22 +26,12 @@ In 2023, I joined Sky Mavis, a Web3 gaming startup behind the popular Axie Infin
     </item>
     
     <item>
-      <title>Resume</title>
-      <link>https://www.sergeyrodin.com/resume/</link>
+      <title>Writing portfolio</title>
+      <link>https://www.sergeyrodin.com/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.sergeyrodin.com/resume/</guid>
-      <description>Profile Experienced technical writer with over 10 years of expertise creating documentation for end users and developers, including guides, APIs, and SDKs. Proficient in Docs-as-Code methodology, git, and command line. Skilled in researching and writing effective technical documentation for engineers. Demonstrated success in leading large- scale documentation efforts, launching developer portals and end-user documentation sites. Proven track record of maintaining consistency and quality across multiple documentation sets by adhering to style guides.</description>
-    </item>
-    
-    <item>
-      <title>Writing samples</title>
-      <link>https://www.sergeyrodin.com/samples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.sergeyrodin.com/samples/</guid>
-      <description>Overview This page contains my selected writing samples arranged in a descending order.
-2023-2024 End-user documentation for a blockchain How-to guide: Run a validator and bridge together Reference: Slashing rules Concept: White paper Developer documentation for a blockchain How-to guide for integrating a payment service using an API: Integrate with the Mavis Pay API How-to guide for integrating an analytics service using an API: Integrate with the App Tracking API How-to guide for JavaScript and Unity SDKs combined: Create a transaction JavaScript SDK reference: JavaScript SDK reference Unity SDK reference: Unity SDK reference API reference: Skynet REST API Concept: About transactions in MPC 2017-2023 Tutorial Create a shipper (excerpt)</description>
+      <guid>https://www.sergeyrodin.com/portfolio/</guid>
+      <description>How-to guides Run a validator and bridge together Enable basic API integration Create a transaction Tutorials Daily check-in Connect a wallet using injected provider Deploy a smart contract References Metadata standards UI guidelines API reference Concepts About fees and royalties About integration levels About transaction policies SDK integration guides Unity SDK Web SDK Information architecture example Diataxis-based information architecture that you can see in each product under the PRODUCTS section: Mavis Docs website.</description>
     </item>
     
   </channel>

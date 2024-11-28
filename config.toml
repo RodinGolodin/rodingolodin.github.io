@@ -129,12 +129,12 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 2
-url = "resume/"
+url = "/docs/sergey_rodin_resume.pdf"
 
 [[languages.en.menu.main]]
-name = "Writing samples"
+name = "Portfolio"
 weight = 3
-url = "samples/"
+url = "portfolio/"
 
 [[languages.en.menu.main]]
 name = "Contact"
