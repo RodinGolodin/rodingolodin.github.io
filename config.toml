@@ -11,7 +11,7 @@ enableEmoji = true
 publishDir = "docs"
 googleAnalytics = "G-YM8LD3VXML"
 scriptsrc = [
-  "https://http://googletagmanager.com",
+  "https://www.googletagmanager.com",
   "https://www.google-analytics.com",
 ]
 # Enable Disqus comments
@@ -20,7 +20,7 @@ scriptsrc = [
 [params]
 author = "Sergey Rodin"
 description = "Sergey Rodin's personal website"
-keywords = "blog,technical writer,personal"
+keywords = "blog,technical writer,personal,ai"
 info = ["Technical writer", "Documentation evangelist"]
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
