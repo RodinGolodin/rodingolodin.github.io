@@ -32,7 +32,7 @@
       
       <guid>https://www.sergeyrodin.com/portfolio/</guid>
       <description>This page contains selected examples of the technical documentation I&amp;rsquo;ve written.
-Sky Mavis Diataxis documentation framework When working at Sky Mavis, I tried to follow the [Diataxis][https://diataxis.fr] framework for designing the information architecture of the developer documentation site docs.skymavis.com as a whole, and categorizing each piece of content specifically.
+Sky Mavis Diataxis documentation framework When working at Sky Mavis, I tried to follow the Diataxis framework for designing the information architecture of the developer documentation site docs.skymavis.com as a whole, and categorizing each piece of content specifically.
 You can see the framework in action by going to the PRODUCTS section on docs.skymavis.com and browsing the different products.
 How-to guides Run a validator and bridge together Enable basic API integration Create a transaction Tutorials Daily check-in Connect a wallet using injected provider Deploy a smart contract References Metadata standards UI guidelines API reference Explanations About fees and royalties About integration levels About transaction policies SDK integration guides Unity SDK Web SDK Ninja Van Order API integration guide (excerpt) Architecture review guide Create a shipper (excerpt, exported from Confluence) Lazada Group Shop-in-shop cookbook (excerpt)</description>
     </item>
