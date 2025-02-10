@@ -10,7 +10,7 @@ This page contains selected examples of the technical documentation I've written
 
 ### Diataxis documentation framework
 
-When working at Sky Mavis, I tried to follow the [Diataxis][https://diataxis.fr] framework for designing the information architecture of the developer documentation site [docs.skymavis.com](https://docs.skymavis.com) as a whole, and categorizing each piece of content specifically.
+When working at Sky Mavis, I tried to follow the [Diataxis](https://diataxis.fr) framework for designing the information architecture of the developer documentation site [docs.skymavis.com](https://docs.skymavis.com) as a whole, and categorizing each piece of content specifically.
 
 You can see the framework in action by going to the **PRODUCTS** section on [docs.skymavis.com](https://docs.skymavis.com) and browsing the different products.
 
