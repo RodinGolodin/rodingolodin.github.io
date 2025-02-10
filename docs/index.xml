@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/about/</guid>
-      <description>Technical writer with 10+ years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code and Git. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.</description>
+      <description>I&amp;rsquo;m Sergey, a technical writer with over a decade of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/contact/</guid>
-      <description> Email: contact@sergeyrodin.com Telegram: @golodinsky Phone number: +84702963470 </description>
+      <description> Email: contact@sergeyrodin.com Telegram: @golodinsky Phone number: +84 702 963 470 </description>
     </item>
     
     <item>
@@ -31,7 +31,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.sergeyrodin.com/portfolio/</guid>
-      <description>How-to guides Run a validator and bridge together Enable basic API integration Create a transaction Tutorials Daily check-in Connect a wallet using injected provider Deploy a smart contract References Metadata standards UI guidelines API reference Concepts About fees and royalties About integration levels About transaction policies SDK integration guides Unity SDK Web SDK Information architecture example Diataxis-based information architecture that you can see in each product under the PRODUCTS section: Mavis Docs website.</description>
+      <description>This page contains selected examples of the technical documentation I&amp;rsquo;ve written.
+Sky Mavis Diataxis documentation framework When working at Sky Mavis, I tried to follow the [Diataxis][https://diataxis.fr] framework for designing the information architecture of the developer documentation site docs.skymavis.com as a whole, and categorizing each piece of content specifically.
+You can see the framework in action by going to the PRODUCTS section on docs.skymavis.com and browsing the different products.
+How-to guides Run a validator and bridge together Enable basic API integration Create a transaction Tutorials Daily check-in Connect a wallet using injected provider Deploy a smart contract References Metadata standards UI guidelines API reference Explanations About fees and royalties About integration levels About transaction policies SDK integration guides Unity SDK Web SDK Ninja Van Order API integration guide (excerpt) Architecture review guide Create a shipper (excerpt, exported from Confluence) Lazada Group Shop-in-shop cookbook (excerpt)</description>
     </item>
     
   </channel>
