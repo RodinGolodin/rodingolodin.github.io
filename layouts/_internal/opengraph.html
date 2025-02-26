@@ -4,23 +4,17 @@
   {{ if gt (len .) 0 }}
     {{ $ogImage = index . 0 | absURL }}
   {{ end }}
-{{ else }}
-  {{ with .Site.Params.og_image }}
-    {{ if . }}
-      {{ $ogImage = . | absURL }}
-    {{ end }}
-  {{ else }}
-    {{ $ogImage = "https://www.sergeyrodin.com/images/profile.png" }} <!-- Fallback -->
-  {{ end }}
 {{ end }}
 
-{{ if $ogImage }}
-  <meta property="og:image" content="{{ $ogImage }}" />
-  <meta name="twitter:image" content="{{ $ogImage }}" />
+{{ if not $ogImage }}
+  {{ $ogImage = .Site.Params.og_image }}
 {{ end }}
+
+<meta property="og:image" content="{{ $ogImage }}" />
+<meta name="twitter:image" content="{{ $ogImage }}" />
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:site_name" content="sergeyrodin.com" /> <!-- Custom Site Name -->
+<meta property="og:site_name" content="sergeyrodin.com" />
