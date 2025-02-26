@@ -4,7 +4,7 @@ slug: "portfolio"
 description: "A collection of technical writing samples by Sergey Rodin, covering API documentation, SDKs, and user guides."
 date: 2025-02-26
 images:
-  - "/images/profile.png"
+  - /images/profile.png
 ---
 
 This page contains selected examples of the technical documentation I've written.
