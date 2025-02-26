@@ -1,7 +1,10 @@
 ---
-title: "Writing portfolio"
+title: "Portfolio"
 slug: "portfolio"
-description: "Selected examples of Sergey Rodin's content"
+description: "A collection of technical writing samples by Sergey Rodin, covering API documentation, SDKs, and user guides."
+date: 2025-02-26
+images:
+  - "/images/profile.png"
 ---
 
 This page contains selected examples of the technical documentation I've written.
