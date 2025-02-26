@@ -13,8 +13,6 @@ googleAnalytics = "G-YM8LD3VXML"
 [params]
 enableOpenGraph = true
 mode="auto"
-author = "Sergey Rodin"
-description = "Sergey Rodin's personal website"
 keywords = "blog,technical writer,personal,ai"
 info = ["Technical writer", "Documentation evangelist"]
 avatarURL = "images/profile.png"
