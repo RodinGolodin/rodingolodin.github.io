@@ -1,5 +1,23 @@
-<meta property="og:image" content="https://www.sergeyrodin.com/images/profile.png" />
-<meta name="twitter:image" content="https://www.sergeyrodin.com/images/profile.png" />
+{{ $ogImage := "" }}
+
+{{ with .Params.images }}
+  {{ if gt (len .) 0 }}
+    {{ $ogImage = index . 0 | absURL }}
+  {{ end }}
+{{ else }}
+  {{ with .Site.Params.og_image }}
+    {{ if . }}
+      {{ $ogImage = . | absURL }}
+    {{ end }}
+  {{ else }}
+    {{ $ogImage = "https://www.sergeyrodin.com/images/profile.png" }} <!-- Fallback -->
+  {{ end }}
+{{ end }}
+
+{{ if $ogImage }}
+  <meta property="og:image" content="{{ $ogImage }}" />
+  <meta name="twitter:image" content="{{ $ogImage }}" />
+{{ end }}
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
