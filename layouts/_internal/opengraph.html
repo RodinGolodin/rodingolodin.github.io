@@ -1,12 +1,5 @@
-{{ with .Params.images }}
-  <meta property="og:image" content="{{ index . 0 | absURL }}" />
-{{ else }}
-  {{ with .Site.Params.og_image }}
-    <meta property="og:image" content="{{ . | absURL }}" />
-  {{ else }}
-    <meta property="og:image" content="https://sergeyrodin.com/images/profile.png" /> <!-- Default Fallback -->
-  {{ end }}
-{{ end }}
+<meta property="og:image" content="https://www.sergeyrodin.com/images/profile.png" />
+<meta name="twitter:image" content="https://www.sergeyrodin.com/images/profile.png" />
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
