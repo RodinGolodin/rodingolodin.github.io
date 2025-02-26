@@ -7,9 +7,9 @@ images:
   - "/images/profile.png"
 ---
 
-I'm Sergey, a technical writer with over a decade of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.
+My name is Sergey Rodin. I'm a technical writer with over 10 years of experience creating software documentation, including API references and SDK guides. Skilled in docs-as-code, Git, and prompt enginering. Experienced in leading large-scale projects, ensuring clarity, consistency, and quality for engineers and end-users. Adaptable and quick to learn emerging technologies, with a focus on user-friendly content.
 
-Get in touch:
+Get in touch with me:
 
 * Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
 * Telegram: [@caphesuagey](https://t.me/caphesuagey)
