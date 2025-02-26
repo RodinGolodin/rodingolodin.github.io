@@ -12,5 +12,5 @@ I'm Sergey, a technical writer with over a decade of experience creating softwar
 Get in touch:
 
 * Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
-* Telegram: [@golodinsky](https://t.me/golodinsky)
-* Phone number: +84 702 963 470
+* Telegram: [@caphesuagey](https://t.me/caphesuagey)
+* Phone number (Vietnam): +84&#8209;702&#8209;963&#8209;470

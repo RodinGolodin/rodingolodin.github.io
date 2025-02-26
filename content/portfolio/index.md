@@ -25,7 +25,6 @@ You can see the framework in action by going to the **PRODUCTS** section on [doc
 
 ### Tutorials
 
-* [Daily check-in](https://docs.skymavis.com/mavis/ronin-waypoint/tutorials/daily-check-in)
 * [Connect a wallet using injected provider](https://docs.skymavis.com/ronin/wallet/tutorials/connect-web)
 * [Deploy a smart contract](https://docs.skymavis.com/ronin/smart-contracts/tutorials/deploy)
 
@@ -48,10 +47,4 @@ You can see the framework in action by going to the **PRODUCTS** section on [doc
 
 ## Ninja Van
 
-* [Order API integration guide (excerpt)](https://github.com/RodinGolodin/rodingolodin.github.io/raw/main/docs/samples/order-api-guide.pdf)
-* [Architecture review guide](https://github.com/RodinGolodin/rodingolodin.github.io/raw/main/docs/samples/completing-sar-form.pdf)
-* [Create a shipper (excerpt, exported from Confluence)](https://github.com/RodinGolodin/rodingolodin.github.io/raw/main/docs/samples/create-a-shipper-tutorial.pdf)
-
-## Lazada Group
-
-[Shop-in-shop cookbook (excerpt)](https://github.com/RodinGolodin/rodingolodin.github.io/raw/main/docs/samples/sis-cookbook.pdf)
+* [API reference](https://api-docs.ninjavan.co/en)
