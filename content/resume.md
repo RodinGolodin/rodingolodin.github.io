@@ -3,7 +3,8 @@ title: "Resume"
 description: "Sergey Rodin's resume, showcasing technical writing experience, skills, and achievements."
 date: 2025-02-26
 slug: "resume"
-images: "/images/profile.png"
+images:
+  - "/images/profile.png"
 ---
 
 Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.
