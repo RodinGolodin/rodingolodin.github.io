@@ -9,6 +9,10 @@ images:
 
 Technical writer with 10+ years of experience creating software documentation, including APIs and SDKs. Skilled in docs-as-code, Git, and prompt engineering for productivity. Experienced in leading projects, ensuring clarity and quality for engineers and users. Adaptable, tech-savvy, and focused on user-friendly content that drives organizational value.
 
+* GitHub: [caphesuagey](https://github.com/caphesuagey)
+* LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
+* Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
+
 {{< callout emoji="⚡️" text="[Open resume in PDF](/resume.pdf)" >}}
 
 ## Work experience
