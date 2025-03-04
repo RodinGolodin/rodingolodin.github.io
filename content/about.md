@@ -11,6 +11,8 @@ My name is Sergey Rodin. I'm a technical writer with over 10 years of experience
 
 Get in touch with me:
 
+* GitHub: [caphesuagey](https://github.com/caphesuagey)
+* LinkedIn: [sergrodin](https://www.linkedin.com/in/sergrodin/)
 * Email: [contact@sergeyrodin.com](mailto:contact@sergeyrodin.com)
 * Telegram: [@caphesuagey](https://t.me/caphesuagey)
 * Phone number (Vietnam): +84&#8209;702&#8209;963&#8209;470
